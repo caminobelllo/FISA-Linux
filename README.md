@@ -3,7 +3,6 @@
 
 <br />
 
-
 ## 👩🏻‍💻 팀원 소개
 
 | <img src="https://avatars.githubusercontent.com/u/118096607?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/170337448?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/98938482?v=4" width="150" height="150"/> |  <img src="https://avatars.githubusercontent.com/u/105345819?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/73377952?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/130548845?v=4" width="150" height="150"/> |
